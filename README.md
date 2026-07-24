@@ -1,31 +1,3 @@
-رائع. افتح ملف `README.md` داخل مستودع `Saeed-Qatan`، احذف النص الموجود، ثم انسخ المحتوى التالي بالكامل:
-
-````markdown
-<h1 align="center">Hi, I'm Saeed Qatan 👋</h1>
-
-<h3 align="center">
-Flutter & Laravel Developer | Information Technology Graduate
-</h3>
-
-<p align="center">
-I build reliable mobile applications and scalable web systems that transform real-world ideas into practical digital products.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saeed-qatan-396a602b4">
-    <img src="https://img.shields.io/badge/LinkedIn-Saeed%20Qatan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:Saeedqat541@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Saeed-Qatan">
-    <img src="https://img.shields.io/badge/GitHub-Saeed--Qatan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-## About Me
 
 I am an Information Technology graduate from the University of Science and Technology, graduating with honors and a 90% academic average.
 
